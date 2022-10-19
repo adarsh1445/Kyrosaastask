@@ -23,7 +23,7 @@
 
 ## Description:
 
-Used React ts for frontend and Express ts with Db Postgres sql for backend. The data that are displayed are dynamically from the backend server. The user can easily book flight tickets , receive the tickets in mail.
+Used React ts for frontend and Express ts with Db Postgres sql for backend service. The data that are displayed are dynamically from the backend server. The user can get random show recommadations and refer the recommandation for future use.
 
 ## Features : 
 
@@ -34,7 +34,7 @@ Used React ts for frontend and Express ts with Db Postgres sql for backend. The 
 
 ## How to run:
 
-Click the live url or clone the repository using git clone https://github.com/adarsh1445/Kyrosaastask and open ui then run npm install then run npm start which will open a localhost where the project gets displayed.
+Click the live url or clone the repository using git clone https://github.com/adarsh1445/Kyrosaastask and open ui then run npm install then run npm start which will open a localhost where the project gets displayed. For services open backend and then run npm install and in config give your postgre db credentials to run locally.
 
 ## Snapshots
 
